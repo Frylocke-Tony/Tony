@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "Legion",
+    "description" : "The Less I Know the Better",
+    "image": "https://frylocke-tony.github.io/Tony-Lenslets/LegionImage.jpg"
+  },
+  "arPlacement": {
+    "@type": "ARPlanarReplacement",
+    "scaleMode": "ScaleModeFill"
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "Tame Impala",
+    "contentUrl": "https://frylocke-tony.github.io/Tony-Lenslets/LegionImpala.mp4",
+    "image": "https://frylocke-tony.github.io/Tony-Lenslets/LegionImage.jpeg",
+    "url": "https://imagecomics.com/comics/series/east-of-west",
+    "publisher": {
+      "@type": "Organization",
+      "name": "David",
+      "logo": "https://www.createwithlens.com/helloworld/image/publisher_icon.png"
+    }
+  }
+}
+</script>
